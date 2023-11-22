@@ -1,6 +1,7 @@
 | 时间  | 标题  | 等级  |
 | --- | --- | --- |
 | "2023-11-21" | ["Splunk Enterprise XSLT 远程代码执行漏洞"]("https://www.oscs1024.com/hd/MPS-1j9c-4oyt") | ""  |
-
 | "2023-11-20" | ["Apache Derby LDAP 注入漏洞"]("https://www.oscs1024.com/hd/MPS-2022-65764") | ""  |
+
+| "2023-11-19" | ["Apache Submarine 存在反序列化漏洞"]("https://www.oscs1024.com/hd/MPS-qp4a-wcgl") | ""  |
 
