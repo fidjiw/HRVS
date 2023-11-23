@@ -6,3 +6,4 @@
 | 2023-11-21 | [I Doc View 任意文件上传漏洞](https://avd.aliyun.com/detail?id=AVD-2023-1697088)                   | 严重                             | 阿里云漏洞库 |
 | 2023-11-18 | [CrushFTP 远程代码执行漏洞（CVE-2023-43177）](https://avd.aliyun.com/detail?id=AVD-2023-43177)       | 严重 | 阿里云漏洞库 |
 | 2023-11-22 | [Apache Submarine SQL 注入漏洞](https://www.oscs1024.com/hd/MPS-ajf4-uzhd) | 严重  | OSCS  |
+| 2023-11-23 | [minizip-ng<4.0.3 存在堆缓冲区溢出漏洞](https://www.oscs1024.com/hd/MPS-7wpn-d9ve) | 高危  | OSCS  |
