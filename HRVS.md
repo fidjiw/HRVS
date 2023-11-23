@@ -5,3 +5,4 @@
 | 2023-11-17 | [Google Chrome <116.0.5845.96 任意文件读取漏洞【poc已公开】](https://www.oscs1024.com/hd/MPS-cv7p-l1wh) | 高危                             | OSCS   |
 | 2023-11-21 | [I Doc View 任意文件上传漏洞](https://avd.aliyun.com/detail?id=AVD-2023-1697088)                   | 严重                             | 阿里云漏洞库 |
 | 2023-11-18 | [CrushFTP 远程代码执行漏洞（CVE-2023-43177）](https://avd.aliyun.com/detail?id=AVD-2023-43177)       | 严重 | 阿里云漏洞库 |
+| 2023-11-22 | [Apache Submarine SQL 注入漏洞](https://www.oscs1024.com/hd/MPS-ajf4-uzhd) | 严重  | OSCS  |
