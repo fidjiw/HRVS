@@ -9,3 +9,4 @@
 | 2023-11-23 | [minizip-ng<4.0.3 存在堆缓冲区溢出漏洞](https://www.oscs1024.com/hd/MPS-7wpn-d9ve) | 高危  | OSCS  |
 | 2023-11-22 | [OwnCloud 敏感信息泄漏漏洞（CVE-2023-49103）](https://avd.aliyun.com/detail?id=AVD-2023-49103) | 严重  | 阿里云漏洞库  |
 | 2023-11-24 | [Apache DolphinScheduler 敏感信息泄漏](https://www.oscs1024.com/hd/MPS-p9et-w8rl) | 高危  | OSCS  |
+| 2023-11-24 | [NPM组件包 openssl v2.0 存在命令注入漏洞](https://www.oscs1024.com/hd/MPS-z1fn-loy8) | 高危  | OSCS  |
