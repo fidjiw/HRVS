@@ -10,3 +10,4 @@
 | 2023-11-22 | [OwnCloud 敏感信息泄漏漏洞（CVE-2023-49103）](https://avd.aliyun.com/detail?id=AVD-2023-49103) | 严重  | 阿里云漏洞库  |
 | 2023-11-24 | [Apache DolphinScheduler 敏感信息泄漏](https://www.oscs1024.com/hd/MPS-p9et-w8rl) | 高危  | OSCS  |
 | 2023-11-24 | [NPM组件包 openssl v2.0 存在命令注入漏洞](https://www.oscs1024.com/hd/MPS-z1fn-loy8) | 高危  | OSCS  |
+| 2023-11-27 | [Apache Superset 默认示例数据库权限提升漏洞](https://www.oscs1024.com/hd/MPS-iztk-bu2h) | 高危  | OSCS  |
