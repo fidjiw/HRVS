@@ -14,3 +14,4 @@
 | 2023-11-28 | [WPS Office Excel 远程代码执行](https://www.oscs1024.com/hd/MPS-ar5t-2oui) | 高危  | OSCS  |
 | 2023-11-29 | [Apache Apache ActiveMQ jolokia 反序列化漏洞（CVE-2022-41678）](https://avd.aliyun.com/detail?id=AVD-2022-41678) |   | 阿里云漏洞库  |
 | 2023-11-30 | [MOVEit Transfer<2023.1.0 权限提升漏洞](https://www.oscs1024.com/hd/MPS-067x-zk3j) | 高危  | OSCS  |
+| 2023-12-05 | [Apache OFBiz 未授权远程代码执行漏洞](https://www.oscs1024.com/hd/MPS-ope5-i4zj) | 严重  | OSCS  |
