@@ -17,3 +17,4 @@
 | 2023-12-05 | [Apache OFBiz 未授权远程代码执行漏洞](https://www.oscs1024.com/hd/MPS-ope5-i4zj) | 严重  | OSCS  |
 | 2023-12-04 | [Apache Ofbiz xmlrpc 代码执行漏洞（CVE-2023-49070）](https://avd.aliyun.com/detail?id=AVD-2023-49070) |   | 阿里云漏洞库  |
 | 2023-12-06 | [Atlassian Confluence 模板注入代码执行漏洞（CVE-2023-22522）](https://avd.aliyun.com/detail?id=AVD-2023-22522) |   | 阿里云漏洞库  |
+| 2023-12-04 | [Apache Struts 文件上传漏洞（CVE-2023-50164）](https://avd.aliyun.com/detail?id=AVD-2023-50164) |   | 阿里云漏洞库  |
