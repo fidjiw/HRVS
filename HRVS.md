@@ -20,3 +20,4 @@
 | 2023-12-04 | [Apache Struts 文件上传漏洞（CVE-2023-50164）](https://avd.aliyun.com/detail?id=AVD-2023-50164) |   | 阿里云漏洞库  |
 | 2023-12-07 | [Apache Struts2 存在远程代码执行漏洞](https://www.oscs1024.com/hd/MPS-5qa9-hjgt) | 严重  | OSCS  |
 | 2023-12-06 | [Atlassian Confluence Data Center/Server 模板注入漏洞](https://www.oscs1024.com/hd/MPS-2023-0023) | 严重  | OSCS  |
+| 2023-12-08 | [亿赛通电子文档安全管理系统代码执行漏洞（CNVD-2023-59457）](https://avd.aliyun.com/detail?id=AVD-2023-1699693) |   | 阿里云漏洞库  |
