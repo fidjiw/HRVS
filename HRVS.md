@@ -24,3 +24,4 @@
 | 2023-12-11 | [WordPress 6.4.0 ~ 6.4.1 WP_HTML_Token 反序列化漏洞](https://avd.aliyun.com/detail?id=AVD-2023-1700015) |   | 阿里云漏洞库  |
 | 2023-12-12 | [MLflow<2.9.1 存在SSTI漏洞](https://www.oscs1024.com/hd/MPS-sv6t-fu0k) | 严重  | OSCS  |
 | 2023-12-12 | [@koa/cors 存在同源验证不当漏洞](https://www.oscs1024.com/hd/MPS-cwq7-e8rp) | 高危  | OSCS  |
+| 2023-12-13 | [Windows MSHTML 远程代码执行漏洞](https://www.oscs1024.com/hd/MPS-yxcv-aitq) | 高危  | OSCS  |
