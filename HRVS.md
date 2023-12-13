@@ -25,3 +25,4 @@
 | 2023-12-12 | [MLflow<2.9.1 存在SSTI漏洞](https://www.oscs1024.com/hd/MPS-sv6t-fu0k) | 严重  | OSCS  |
 | 2023-12-12 | [@koa/cors 存在同源验证不当漏洞](https://www.oscs1024.com/hd/MPS-cwq7-e8rp) | 高危  | OSCS  |
 | 2023-12-13 | [Windows MSHTML 远程代码执行漏洞](https://www.oscs1024.com/hd/MPS-yxcv-aitq) | 高危  | OSCS  |
+| 2023-12-12 | [亿赛通电子文档安全管理系统 uploadFile 文件上传漏洞](https://avd.aliyun.com/detail?id=AVD-2023-1700750) |   | 阿里云漏洞库  |
