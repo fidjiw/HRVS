@@ -32,3 +32,4 @@
 | 2023-12-15 | [MLflow <2.9.2 路径遍历漏洞](https://www.oscs1024.com/hd/MPS-m397-puva) | 严重  | OSCS  |
 | 2023-12-14 | [MLflow<2.9.2 存在任意文件写入漏洞](https://www.oscs1024.com/hd/MPS-hbve-if4y) | 严重  | OSCS  |
 | 2023-12-15 | [Apache Dubbo 反序列化漏洞（CVE-2023-29234）](https://avd.aliyun.com/detail?id=AVD-2023-29234) |   | 阿里云漏洞库  |
+| 2023-12-15 | [Apache Dubbo 反系列化漏洞（CVE-2023-46279）](https://avd.aliyun.com/detail?id=AVD-2023-46279) |   | 阿里云漏洞库  |
