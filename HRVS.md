@@ -29,3 +29,4 @@
 | 2023-12-13 | [Google Chrome<120.0.6099.109 存在类型混淆漏洞](https://www.oscs1024.com/hd/MPS-q9kf-nc82) | 高危  | OSCS  |
 | 2023-12-12 | [亿赛通电子文档安全管理系统 dlUltrasec 文件读取漏洞](https://avd.aliyun.com/detail?id=AVD-2023-1700953) | 严重  | 阿里云漏洞库  |
 | 2023-12-15 | [Apache Dubbo 3.1.5 反序列化漏洞](https://www.oscs1024.com/hd/MPS-k3ml-xyci) | 严重  | OSCS  |
+| 2023-12-15 | [MLflow <2.9.2 路径遍历漏洞](https://www.oscs1024.com/hd/MPS-m397-puva) | 严重  | OSCS  |
