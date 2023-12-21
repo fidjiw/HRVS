@@ -34,3 +34,4 @@
 | 2023-12-15 | [Apache Dubbo 反序列化漏洞（CVE-2023-29234）](https://avd.aliyun.com/detail?id=AVD-2023-29234) |   | 阿里云漏洞库  |
 | 2023-12-15 | [Apache Dubbo 反系列化漏洞（CVE-2023-46279）](https://avd.aliyun.com/detail?id=AVD-2023-46279) |   | 阿里云漏洞库  |
 | 2023-12-19 | [OpenSSH <9.6 命令注入漏洞](https://www.oscs1024.com/hd/MPS-9rip-l1u7) | 高危  | OSCS  |
+| 2023-12-20 | [Mlflow Jinja2 模版注入漏洞](https://www.oscs1024.com/hd/MPS-qdjk-tr3g) | 严重  | OSCS  |
