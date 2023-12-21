@@ -37,3 +37,4 @@
 | 2023-12-20 | [Mlflow Jinja2 模版注入漏洞](https://www.oscs1024.com/hd/MPS-qdjk-tr3g) | 严重  | OSCS  |
 | 2023-12-19 | [Transformers RagRetriever 反序列化漏洞](https://www.oscs1024.com/hd/MPS-qedl-r8y7) | 严重  | OSCS  |
 | 2023-12-19 | [Apache Superset 授权检查错误漏洞](https://www.oscs1024.com/hd/MPS-i3j1-274p) | 高危  | OSCS  |
+| 2023-12-18 | [Zabbix Server session 泄漏漏洞（CVE-2023-32725）](https://avd.aliyun.com/detail?id=AVD-2023-32725) |   | 阿里云漏洞库  |
