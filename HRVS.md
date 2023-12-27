@@ -39,3 +39,4 @@
 | 2023-12-19 | [Apache Superset 授权检查错误漏洞](https://www.oscs1024.com/hd/MPS-i3j1-274p) | 高危  | OSCS  |
 | 2023-12-18 | [Zabbix Server session 泄漏漏洞（CVE-2023-32725）](https://avd.aliyun.com/detail?id=AVD-2023-32725) |   | 阿里云漏洞库  |
 | 2023-12-21 | [MLflow <2.9.2 任意文件读取漏洞（is_local_uri绕过）](https://www.oscs1024.com/hd/MPS-06sl-jy9a) | 严重  | OSCS  |
+| 2023-12-26 | [Apache OFBiz groovy 远程代码执行漏洞（CVE-2023-51467）](https://avd.aliyun.com/detail?id=AVD-2023-51467) | 严重  | 阿里云漏洞库  |
