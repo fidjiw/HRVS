@@ -44,3 +44,4 @@
 | 2023-12-26 | [Apache OFBiz 未授权远程代码执行漏洞](https://www.oscs1024.com/hd/MPS-qkfi-ya3x) | 严重  | OSCS  |
 | 2023-12-29 | [WordPress插件 WP Sessions Time Monitoring Full Automatic<1.0.9 Sql注入漏洞](https://www.oscs1024.com/hd/MPS-s92y-4j6l) | 高危  | OSCS  |
 | 2023-12-29 | [Apache DolphinScheduler<3.1.9 任意代码执行漏洞](https://www.oscs1024.com/hd/MPS-v3pc-s24l) | 高危  | OSCS  |
+| 2023-12-29 | [Apache OpenOffice<4.1.15 任意宏脚本执行漏洞](https://www.oscs1024.com/hd/MPS-8ch4-z16y) | 高危  | OSCS  |
