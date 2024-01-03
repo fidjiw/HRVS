@@ -46,3 +46,4 @@
 | 2023-12-29 | [Apache DolphinScheduler<3.1.9 任意代码执行漏洞](https://www.oscs1024.com/hd/MPS-v3pc-s24l) | 高危  | OSCS  |
 | 2023-12-29 | [Apache OpenOffice<4.1.15 任意宏脚本执行漏洞](https://www.oscs1024.com/hd/MPS-8ch4-z16y) | 高危  | OSCS  |
 | 2023-12-30 | [easy-rules-mvel<=4.1.0 远程代码执行漏洞](https://www.oscs1024.com/hd/MPS-k69p-f547) | 高危  | OSCS  |
+| 2024-01-02 | [follow-redirects<1.15.4 主机名验证不当漏洞](https://www.oscs1024.com/hd/MPS-2023-5153) | 高危  | OSCS  |
