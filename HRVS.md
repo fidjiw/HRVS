@@ -49,3 +49,4 @@
 | 2024-01-02 | [follow-redirects<1.15.4 主机名验证不当漏洞](https://www.oscs1024.com/hd/MPS-2023-5153) | 高危  | OSCS  |
 | 2024-01-03 | [Perl for Windows 任意代码执行漏洞](https://www.oscs1024.com/hd/MPS-drzf-wlk7) | 高危  | OSCS  |
 | 2024-01-03 | [Apache InLong updateAuditSource方法命令注入漏洞](https://www.oscs1024.com/hd/MPS-81gu-tekl) | 高危  | OSCS  |
+| 2024-01-03 | [PaddlePaddle<2.6.0 存在命令注入漏洞](https://www.oscs1024.com/hd/MPS-byhf-uv17) | 严重  | OSCS  |
