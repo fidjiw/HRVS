@@ -50,3 +50,4 @@
 | 2024-01-03 | [Perl for Windows 任意代码执行漏洞](https://www.oscs1024.com/hd/MPS-drzf-wlk7) | 高危  | OSCS  |
 | 2024-01-03 | [Apache InLong updateAuditSource方法命令注入漏洞](https://www.oscs1024.com/hd/MPS-81gu-tekl) | 高危  | OSCS  |
 | 2024-01-03 | [PaddlePaddle<2.6.0 存在命令注入漏洞](https://www.oscs1024.com/hd/MPS-byhf-uv17) | 严重  | OSCS  |
+| 2024-01-04 | [Google Chrome<120.0.6099.199 存在释放后使用漏洞](https://www.oscs1024.com/hd/MPS-ler0-8tok) | 高危  | OSCS  |
