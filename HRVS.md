@@ -52,3 +52,4 @@
 | 2024-01-03 | [PaddlePaddle<2.6.0 存在命令注入漏洞](https://www.oscs1024.com/hd/MPS-byhf-uv17) | 严重  | OSCS  |
 | 2024-01-04 | [Google Chrome<120.0.6099.199 存在释放后使用漏洞](https://www.oscs1024.com/hd/MPS-ler0-8tok) | 高危  | OSCS  |
 | 2024-01-04 | [Google Chrome<120.0.6099.199 存在堆缓冲区溢出漏洞](https://www.oscs1024.com/hd/MPS-0xpr-q1kb) | 高危  | OSCS  |
+| 2024-01-04 | [JEECG jeecgFormDemoController接口存在任意代码执行漏洞](https://www.oscs1024.com/hd/MPS-o8a2-7rik) | 严重  | OSCS  |
