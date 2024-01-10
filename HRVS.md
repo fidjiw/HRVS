@@ -54,3 +54,4 @@
 | 2024-01-04 | [Google Chrome<120.0.6099.199 存在堆缓冲区溢出漏洞](https://www.oscs1024.com/hd/MPS-0xpr-q1kb) | 高危  | OSCS  |
 | 2024-01-04 | [JEECG jeecgFormDemoController接口存在任意代码执行漏洞](https://www.oscs1024.com/hd/MPS-o8a2-7rik) | 严重  | OSCS  |
 | 2024-01-10 | [Windows Hyper-V 远程执行代码漏洞](https://www.oscs1024.com/hd/MPS-3is1-6z5y) | 高危  | OSCS  |
+| 2024-01-10 | [Windows Kerberos 安全特性绕过漏洞](https://www.oscs1024.com/hd/MPS-srj4-gu7x) | 严重  | OSCS  |
