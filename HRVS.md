@@ -57,3 +57,4 @@
 | 2024-01-10 | [Windows Kerberos 安全特性绕过漏洞](https://www.oscs1024.com/hd/MPS-srj4-gu7x) | 严重  | OSCS  |
 | 2024-01-11 | [GitLab 任意用户密码重置漏洞（CVE-2023-7028）](https://avd.aliyun.com/detail?id=AVD-2023-7028) | 严重  | 阿里云漏洞库  |
 | 2024-01-12 | [GitLab 以其他用户身份执行 Slack  命令](https://www.oscs1024.com/hd/MPS-pf0c-qykt) | 严重  | OSCS  |
+| 2024-01-12 | [GitLab 账号接管漏洞](https://www.oscs1024.com/hd/MPS-vbt9-zgx1) | 严重  | OSCS  |
