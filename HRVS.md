@@ -59,3 +59,4 @@
 | 2024-01-12 | [GitLab 以其他用户身份执行 Slack  命令](https://www.oscs1024.com/hd/MPS-pf0c-qykt) | 严重  | OSCS  |
 | 2024-01-12 | [GitLab 账号接管漏洞](https://www.oscs1024.com/hd/MPS-vbt9-zgx1) | 严重  | OSCS  |
 | 2024-01-13 | [Apache Solr 环境变量信息泄漏漏洞](https://www.oscs1024.com/hd/MPS-xjy6-0kiu) | 高危  | OSCS  |
+| 2024-01-13 | [Apache Solr 环境变量信息泄漏漏洞（CVE-2023-50290）](https://avd.aliyun.com/detail?id=AVD-2023-50290) |   | 阿里云漏洞库  |
