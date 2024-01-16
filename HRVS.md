@@ -60,3 +60,4 @@
 | 2024-01-12 | [GitLab 账号接管漏洞](https://www.oscs1024.com/hd/MPS-vbt9-zgx1) | 严重  | OSCS  |
 | 2024-01-13 | [Apache Solr 环境变量信息泄漏漏洞](https://www.oscs1024.com/hd/MPS-xjy6-0kiu) | 高危  | OSCS  |
 | 2024-01-13 | [Apache Solr 环境变量信息泄漏漏洞（CVE-2023-50290）](https://avd.aliyun.com/detail?id=AVD-2023-50290) |   | 阿里云漏洞库  |
+| 2024-01-16 | [Atlassian Confluence 模板注入代码执行漏洞（CVE-2023-22527）](https://avd.aliyun.com/detail?id=AVD-2023-22527) | 严重  | 阿里云漏洞库  |
