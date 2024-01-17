@@ -62,3 +62,4 @@
 | 2024-01-13 | [Apache Solr 环境变量信息泄漏漏洞（CVE-2023-50290）](https://avd.aliyun.com/detail?id=AVD-2023-50290) |   | 阿里云漏洞库  |
 | 2024-01-16 | [Atlassian Confluence 模板注入代码执行漏洞（CVE-2023-22527）](https://avd.aliyun.com/detail?id=AVD-2023-22527) | 严重  | 阿里云漏洞库  |
 | 2024-01-16 | [Atlassian Confluence 模板注入代码执行漏洞](https://www.oscs1024.com/hd/MPS-2023-0028) | 严重  | OSCS  |
+| 2024-01-13 | [Ivanti Pulse Connect Secure VPN 远程代码执行（CVE-2023-46805）](https://avd.aliyun.com/detail?id=AVD-2023-46805) | 严重  | 阿里云漏洞库  |
