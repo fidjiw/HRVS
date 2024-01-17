@@ -63,3 +63,4 @@
 | 2024-01-16 | [Atlassian Confluence 模板注入代码执行漏洞（CVE-2023-22527）](https://avd.aliyun.com/detail?id=AVD-2023-22527) | 严重  | 阿里云漏洞库  |
 | 2024-01-16 | [Atlassian Confluence 模板注入代码执行漏洞](https://www.oscs1024.com/hd/MPS-2023-0028) | 严重  | OSCS  |
 | 2024-01-13 | [Ivanti Pulse Connect Secure VPN 远程代码执行（CVE-2023-46805）](https://avd.aliyun.com/detail?id=AVD-2023-46805) | 严重  | 阿里云漏洞库  |
+| 2024-01-17 | [Google Chrome V8 < 120.0.6099.224 越界内存访问漏洞](https://www.oscs1024.com/hd/MPS-bfqk-dgjp) | 高危  | OSCS  |
