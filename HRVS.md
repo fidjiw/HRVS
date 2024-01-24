@@ -70,3 +70,4 @@
 | 2024-01-22 | [Spring Framework 拒绝服务漏洞 (CVE-2024-22233)](https://avd.aliyun.com/detail?id=AVD-2024-22233) |   | 阿里云漏洞库  |
 | 2024-01-23 | [亿赛通电子文档安全管理系统 文件上传漏洞](https://avd.aliyun.com/detail?id=AVD-2024-1706412) |   | 阿里云漏洞库  |
 | 2024-01-23 | [Splunk Enterprise for Windows 反序列化漏洞](https://www.oscs1024.com/hd/MPS-qxjm-zyb4) | 高危  | OSCS  |
+| 2024-01-21 | [PaddlePaddle < 2.6.0 存在命令注入漏洞](https://www.oscs1024.com/hd/MPS-g8j9-m4lq) | 严重  | OSCS  |
