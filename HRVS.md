@@ -72,3 +72,4 @@
 | 2024-01-23 | [Splunk Enterprise for Windows 反序列化漏洞](https://www.oscs1024.com/hd/MPS-qxjm-zyb4) | 高危  | OSCS  |
 | 2024-01-21 | [PaddlePaddle < 2.6.0 存在命令注入漏洞](https://www.oscs1024.com/hd/MPS-g8j9-m4lq) | 严重  | OSCS  |
 | 2024-01-23 | [Goanywhere MFT 未授权创建管理员漏洞（CVE-2024-0204）](https://avd.aliyun.com/detail?id=AVD-2024-0204) | 严重  | 阿里云漏洞库  |
+| 2024-01-25 | [Jenkins CLI 任意文件读取致远程代码执行漏洞（CVE-2024-23897）](https://avd.aliyun.com/detail?id=AVD-2024-23897) |   | 阿里云漏洞库  |
